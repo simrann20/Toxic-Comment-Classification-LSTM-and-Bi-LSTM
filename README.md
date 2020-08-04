@@ -23,14 +23,16 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ## Project Created & Maintained By
 
-### 1. Akash Gupta 
 
-<a href="https://www.linkedin.com/in/akashgupta2000/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+
+### 1. Simrann Arora
+
+<a href="https://www.linkedin.com/in/simrannarora/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 
 **Machine Learning Enthusiast #MachineLearning #DeepLearning #ToxicCommentsClassification #LSTM #Bi-LSTM #Python**
 
-### 2. Simrann Arora
+### 2. Akash Gupta 
 
-<a href="https://www.linkedin.com/in/simrannarora/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/akashgupta2000/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 
 **Machine Learning Enthusiast #MachineLearning #DeepLearning #ToxicCommentsClassification #LSTM #Bi-LSTM #Python**

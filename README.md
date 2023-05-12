@@ -1,8 +1,8 @@
-# Toxic Comment Classification using LSTM and Bi-LSTM
+## Toxic Comment Classification using LSTM and Bi-LSTM
 
 In this project, we proposed a multi-label classification model using LSTM and Bi-LSTM to classify the various toxic comments into six classes namely toxic, severe toxic, obscene, threat, insult and identity hate.
 
-## About the Dataset
+### About the Dataset
 The dataset for this project is taken from Kaggle and is provided by the Conversation AI team (a research initiative co-founded by Jigsaw and Google). Word Embedding is performed to get insights from the previous research works. In this project, Glove.6B.300D is used which contain 6 billion tokens and each token is represented by 300D vector representation. 
 
 Download the Dataset from [here](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).
